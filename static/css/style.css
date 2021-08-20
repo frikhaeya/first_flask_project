@@ -1,0 +1,28 @@
+html, body{
+    /*background-image: url(../img/background.jpg);*/
+    background-color: white;
+}
+
+p{
+    color: black;
+}
+
+h1{
+    color: #328864;
+}
+
+#eyaimg{
+    width:400px;
+    height: auto;
+}
+
+#eya{
+    display:block;
+   
+    background-color: white;
+    display:flex;
+    justify-content:space-around;
+   
+    top: 0;
+    top:10px;
+}
